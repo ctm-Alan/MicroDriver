@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroDriver", "MicroDriver\MicroDriver.csproj", "{858112F2-6CE6-4014-93C8-702224F601C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858112F2-6CE6-4014-93C8-702224F601C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858112F2-6CE6-4014-93C8-702224F601C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858112F2-6CE6-4014-93C8-702224F601C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858112F2-6CE6-4014-93C8-702224F601C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
